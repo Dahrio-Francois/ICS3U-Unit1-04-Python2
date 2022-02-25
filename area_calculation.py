@@ -3,7 +3,7 @@
 # Created by: Dahrio Francois
 # Created on: February 2022
 # This program calculates the area and perimeter of a rectangle
-#    with dimensions 5cm x 3cm
+#    with dimensions 6cm x 4cm
 
 
 def main():
