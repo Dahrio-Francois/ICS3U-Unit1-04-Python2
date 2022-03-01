@@ -12,8 +12,8 @@ def main():
     print("If a rectangle has the dimensions: ")
     print("6cm x 4cm")
     print("")
-    print("Area is {}cm².".format(6 * 4))
-    print("Perimeter is {}cm.".format(2 * (6 + 4)))
+    print("Area is {} cm².".format(6 * 4))
+    print("Perimeter is {} cm.".format(2 * (6 + 4)))
 
 
 if __name__ == "__main__":
